@@ -13,7 +13,7 @@ Then fire up jupyter notebook from the command line and use the `plotting_intro`
 
 `plotting_intro` is an introduction to plotting in Python, using publicly available data:
 * Column ozone from Halley Bay (Farman et al 1985) - the first observations of the ozone hole 
-![farman](https://github.com/dcw32/plotting-intro/raw/master/img/farman.png){:height="300px"}
+![farman](https://github.com/dcw32/plotting-intro/raw/master/img/farman.png | width=300)
 * The North Atlantic Oscillation (NAO) - a key mode of variability in the North Atlantic
 ![nao](https://github.com/dcw32/plotting-intro/raw/master/img/nao.png)
 * The Berkeley Earth Surface Temperature (BEST) dataset - how have surface temperatures changed in recent years?
