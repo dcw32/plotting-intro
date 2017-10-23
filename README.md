@@ -14,10 +14,13 @@ Then fire up jupyter notebook from the command line and use the `plotting_intro`
 `plotting_intro` is an introduction to plotting in Python, using publicly available data:
 * Column ozone from Halley Bay (Farman et al 1985) - the first observations of the ozone hole 
 <img src="https://github.com/dcw32/plotting-intro/raw/master/img/farman.png" width="400px" />
+
 * The North Atlantic Oscillation (NAO) - a key mode of variability in the North Atlantic
 <img src="https://github.com/dcw32/plotting-intro/raw/master/img/nao.png" width="400px" />
+
 * The Berkeley Earth Surface Temperature (BEST) dataset - how have surface temperatures changed in recent years?
 <img src="https://github.com/dcw32/plotting-intro/raw/master/img/best.png" width="400px" />
+
 * Surface ozone trends and spectral analysis - Jungfraujoch and Mace Head (To Come)
 
 Along the way you'll learn how to make scatter plots, line plots, error bars, bar charts, contour plots and use cartopy to project data onto a world map.
