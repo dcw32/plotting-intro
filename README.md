@@ -7,7 +7,7 @@ Please email dcw32.wade -at- gmail.com with any comments!
 To run these notebooks, you need to first install Python. I recommend doing this using Anaconda - install this then create a new Python environment.
 
 For a minimal anaconda based installation:
-`conda create -n plotting_intro python=2.7 cartopy jupyter netCDF4`
+`conda create -n plotting_intro python=2.7 cartopy jupyter netCDF4 pandas`
 
 Then fire up jupyter notebook from the command line and use the `plotting_intro` kernal.
 
